@@ -1,0 +1,7 @@
+opencv-python
+opencv-python-headless
+numpy
+ultralytics
+face-recognition
+retina-face
+deepface
